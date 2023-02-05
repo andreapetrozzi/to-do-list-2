@@ -1,10 +1,11 @@
 # to-do-list-2
-To do list with the use of vanilla js and jquery
+
+### Description 
+Creating a To Do List with vanillaJS and jQuery
+
+To be inserted on the Live Server (ex. WAMP, MAMP, XAMP)
 
 
-DESCRIZIONE 
-Creazione di una To Do List con vanillaJS e jQuery 
-
+### Screen 
 ![pic](https://user-images.githubusercontent.com/98649610/162703465-a56ead27-ec97-4f83-bac2-c7b63d347b1b.JPG)
 
-NB: Da inserire sul LiveServer (es. WAMP, MAMP, XAMP)
